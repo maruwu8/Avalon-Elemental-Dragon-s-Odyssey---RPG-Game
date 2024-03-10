@@ -6,7 +6,11 @@ Embark on a thrilling journey as Avalon, a young and spirited dragon, in "Avalon
 
 ## :world_map: Levels Overview
 
-Embark on a journey through the diverse realms of "Avalon: Elemental Dragon's Odyssey," each nestled as islands within the same galaxy. Begin your adventure in the Prison, where you'll navigate through an introductory tutorial to familiarize yourself with game mechanics. Delve into the scorching challenges of the Fire Forge, followed by the tranquil yet perilous Pond of the Water Realm. Feel the winds of change in The Hurricane, set in the dynamic Wind Realm, before facing the ultimate test in Z’Olreth’s Lair, an underground Earth Realm where the final showdown awaits. Complete the challenges in each island to unlock the next, and witness the unfolding of Avalon's epic adventure across the galaxy.
+Embark on a journey through the diverse realms of "Avalon: Elemental Dragon's Odyssey," each nestled as islands within the same galaxy. 
+
+Begin your adventure in the Prison🪨, where you'll navigate through an introductory tutorial to familiarize yourself with game mechanics. Delve into the scorching challenges of the Fire Forge, followed by the tranquil yet perilous Pond of the Water Realm🌊.
+Feel the winds of change in The Hurricane💨, set in the dynamic Wind Realm, before facing the ultimate test in Z’Olreth’s Lair, an underground Earth Realm🌱 where the final showdown awaits. Complete the challenges in each island to unlock the next, and witness the unfolding of Avalon's epic adventure across the galaxy.
+
 
 ![Gameplay](gameplay/AvalonPic1.png)
 
@@ -43,13 +47,17 @@ Lighting within the game is handled by the [`shader.cpp`](GameEngine/Shaders) fi
 
 The lone observer of these events is **Z'Olrath** 🔮, a cosmic wanderer from the planet Xylothar. Witnessing Drakonia's plight, Z'Olrath embodies the magic of the pixies within himself to prevent the planet's destruction. However, this transformation comes with its challenges, as the pixie magic deems anything it touches as "bad" or "corrupt."
 
+
 ![Gameplay](gameplay/AvalonPic4.png)
+
 
 Meanwhile, a unique baby dragon named **Avalon** hatches, imbued with a special connection to the elemental powers by the pixies' magic. Recognizing Avalon's potential threat, the pixies seal him in a dragon jail, spinning an elaborate tale to manipulate him into believing Z'Olrath is the true villain.
 
 As Avalon grows and escapes his prison, he becomes entangled in the pixies' deception, learning to wield elemental powers under their guidance. However, a confrontation with Z'Olrath reveals the truth, forcing Avalon to choose between the pixies and the true path of righteousness. The fate of Drakonia hangs in the balance as Avalon grapples with his allegiance and discovers the true meaning of his elemental powers.
 
+
 ![Gameplay](gameplay/AvalonPic5.png)
+
 
 ## :mega: Conclusion
 
