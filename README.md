@@ -2,7 +2,8 @@
 
 ## :rocket: Introduction - Storyline
 
-Embark on a thrilling journey as Avalon, a young and spirited dragon, in "Avalon: Elemental Dragon's Odyssey." Trapped in a world ensnared by an evil sorcerer's grip, Avalon must venture through four elemental realms—water, fire, wind, and earth—to restore balance and reclaim the stolen powers of the fairies. Dive into an immersive narrative filled with unexpected twists and poignant moments, culminating in an epic showdown against the malevolent sorcerer in a fight for the goodwilled fairies...if you could even call them that?
+Embark on a thrilling journey as Avalon, a young and spirited dragon, in "Avalon: Elemental Dragon's Odyssey." Trapped in a world ensnared by an evil sorcerer's grip, Avalon must venture through four elemental realms—water, fire, wind, and earth—to restore balance and reclaim the stolen powers of the fairies. 
+Dive into an immersive narrative filled with unexpected twists and poignant moments, culminating in an epic showdown against the malevolent sorcerer in a fight for the goodwilled fairies...if you could even call them that?
 
 ## :world_map: Levels Overview
 
@@ -22,7 +23,7 @@ Feel the winds of change in The Hurricane💨, set in the dynamic Wind Realm, be
 
 In "Avalon: Elemental Dragon's Odyssey," players experience a first-person RPG adventure as Avalon, the dragon. Use the `WASD` keys to navigate Avalon through the enchanting realms. 
 
-Interact with objects and elements using the E key, such as opening prison doors, lighting torches, and collecting dragon eggs. 
+Interact with objects and elements using the `E` key, such as opening prison doors, lighting torches, and collecting dragon eggs. 
 Engage in combat by spitting fire with the `Q` key to defeat enemies and restore balance to the elemental realms.🔥
 
 Additionally, a user-friendly GUI provides hints and updates quests based on your progress, ensuring a seamless and immersive gaming experience. Master these movements and mechanics to guide Avalon through their epic quest.
@@ -71,7 +72,7 @@ To play "Avalon: Elemental Dragon's Odyssey," follow these steps:
    ```bash
    git clone https://github.com/maruwu8/Avalon-Elemental-Dragons-Odyssey-RPG-Game.git
    
-2. Open GameEngine.sln: Navigate to the cloned repository and open the GameEngine.sln file using an IDE like Visual Studio.
+2. Open `GameEngine.sln`: Navigate to the cloned repository and open the GameEngine.sln file using an IDE like Visual Studio.
 
 3. Build and Run: Build the solution in your IDE and run the game. It may take some time for all the assets and objects to load, so please be patient.
 
