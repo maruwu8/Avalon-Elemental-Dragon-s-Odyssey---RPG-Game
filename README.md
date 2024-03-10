@@ -29,7 +29,7 @@ The game's camera movement is implemented in [`camera.cpp`](GameEngine/Camera) a
 
 To enhance the user interface and provide helpful hints and quest updates, the **ImGui** library is utilized, offering a versatile and customizable GUI system that integrates seamlessly with OpenGL applications.
 
-Incorporating 3D models and textures sourced from websites like **Sketchfab**, **CGTrader**, and **TurboSquid**, the game's assets are stored in the *Resources* folder, organized into *Models* and *Textures* subfolders. These assets are loaded into the game using [`mesh.cpp`](GameEngine/Model Loading) and [`loadObjMesh.cpp`](GameEngine/Model Loading), allowing for immersive environments.
+Incorporating 3D models and textures sourced from websites like **Sketchfab**, **CGTrader**, and **TurboSquid**, the game's assets are stored in the *Resources* folder, organized into *Models* and *Textures* subfolders. These assets are loaded into the game using [`mesh.cpp`](GameEngine/"Model Loading") and [`loadObjMesh.cpp`](GameEngine/"Model Loading"), allowing for immersive environments.
 
 Lighting within the game is handled by the [`shader.cpp`](GameEngine/Shaders) files and **GLSL** shaders located in the *Shaders* folder. These components work together to create dynamic lighting effects, adding realism to the elemental realms Avalon traverses.
 
