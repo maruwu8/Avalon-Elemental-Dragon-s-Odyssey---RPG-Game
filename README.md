@@ -61,7 +61,7 @@ To play "Avalon: Elemental Dragon's Odyssey," follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/maruwu8/Avalon-Elemental-Dragon's-Odyssey-RPG-Game.git
+   git clone https://github.com/maruwu8/Avalon-Elemental-Dragons-Odyssey-RPG-Game.git
    
 2. Open GameEngine.sln: Navigate to the cloned repository and open the GameEngine.sln file using an IDE like Visual Studio.
 
