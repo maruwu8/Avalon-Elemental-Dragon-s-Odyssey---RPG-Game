@@ -15,8 +15,8 @@ Embark on a journey through the diverse realms of "Avalon: Elemental Dragon's Od
 
 ## :video_game: Player Movements and Mechanics
 
-In "Avalon: Elemental Dragon's Odyssey," players experience a first-person RPG adventure as Avalon, the dragon. Use the 'WASD' keys to navigate Avalon through the enchanting realms. Interact with objects and elements using the E key, such as opening prison doors, lighting torches, and collecting dragon eggs. 
-Engage in combat by spitting fire with the 'Q' key to defeat enemies and restore balance to the elemental realms.🔥
+In "Avalon: Elemental Dragon's Odyssey," players experience a first-person RPG adventure as Avalon, the dragon. Use the `WASD` keys to navigate Avalon through the enchanting realms. Interact with objects and elements using the E key, such as opening prison doors, lighting torches, and collecting dragon eggs. 
+Engage in combat by spitting fire with the `Q` key to defeat enemies and restore balance to the elemental realms.🔥
 Additionally, a user-friendly GUI provides hints and updates quests based on your progress, ensuring a seamless and immersive gaming experience. Master these movements and mechanics to guide Avalon through their epic quest.
 
 ![Gameplay](gameplay/AvalonPic3.png)
@@ -29,7 +29,7 @@ The game's camera movement is implemented in [`camera.cpp`](GameEngine/Camera) a
 
 To enhance the user interface and provide helpful hints and quest updates, the **ImGui** library is utilized, offering a versatile and customizable GUI system that integrates seamlessly with OpenGL applications.
 
-Incorporating 3D models and textures sourced from websites like **Sketchfab**, **CGTrader**, and **TurboSquid**, the game's assets are stored in the *Resources* folder, organized into *Models* and *Textures* subfolders. These assets are loaded into the game using [`mesh.cpp`](GameEngine/Model_Loading) and [`loadObjMesh.cpp`](GameEngine/Model_Loading), allowing for immersive environments.
+Incorporating 3D models and textures sourced from websites like **Sketchfab**, **CGTrader**, and **TurboSquid**, the game's assets are stored in the *Resources* folder, organized into *Models* and *Textures* subfolders. These assets are loaded into the game using [`mesh.cpp`](GameEngine/Model Loading) and [`loadObjMesh.cpp`](GameEngine/Model Loading), allowing for immersive environments.
 
 Lighting within the game is handled by the [`shader.cpp`](GameEngine/Shaders) files and **GLSL** shaders located in the *Shaders* folder. These components work together to create dynamic lighting effects, adding realism to the elemental realms Avalon traverses.
 
@@ -50,3 +50,17 @@ As Avalon grows and escapes his prison, he becomes entangled in the pixies' dece
 ## :mega: Conclusion
 
 "Avalon: Elemental Dragon's Odyssey" was developed as part of the final project for the Advanced Computer Graphics course at The National University of Science and Technology Politehnica Bucharest (UNSTPB). This project provided an opportunity to apply theoretical knowledge and practical skills in game development, OpenGL programming, and graphics rendering. Through the creation of this engaging game, I aimed to demonstrate proficiency in graphics programming techniques, including camera movement, GUI implementation, asset loading, and shader usage. Moreover, the game serves as a testament to the creativity within the realm of computer graphics, offering players a captivating journey through the enchanting world of Drakonia.
+
+## :video_game: How to Play🐲
+
+To play "Avalon: Elemental Dragon's Odyssey," follow these steps:
+
+1. **Clone the Repository**: 
+   ```bash
+   git clone https://github.com/maruwu8/Avalon-Elemental-Dragon's-Odyssey-RPG-Game.git
+   
+2. Open GameEngine.sln: Navigate to the cloned repository and open the GameEngine.sln file using an IDE like Visual Studio.
+
+3. Build and Run: Build the solution in your IDE and run the game. It may take some time for all the assets and objects to load, so please be patient.
+
+4. Enjoy: Once the game launches, embark on your adventure as Avalon, the Elemental Dragon, and restore balance to the realms!
