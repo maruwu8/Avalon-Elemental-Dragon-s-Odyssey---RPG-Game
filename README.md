@@ -38,7 +38,7 @@ The game's camera movement is implemented in [`camera.cpp`](GameEngine/Camera) a
 
 To enhance the user interface and provide helpful hints and quest updates, the **ImGui** library is utilized, offering a versatile and customizable GUI system that integrates seamlessly with OpenGL applications.
 
-Incorporating 3D models and textures sourced from websites like **Sketchfab**, **CGTrader**, and **TurboSquid**, the game's assets are stored in the *Resources* folder, organized into *Models* and *Textures* subfolders. These assets are loaded into the game using [`mesh.cpp`](GameEngine/Model%20Loading) and [`loadObjMesh.cpp`](GameEngine/"Model%20Loading"), allowing for immersive environments.
+Incorporating 3D models and textures sourced from websites like **Sketchfab**, **CGTrader** (https://www.cgtrader.com/free-3d-models), and **TurboSquid**, the game's assets are stored in the *Resources* folder, organized into *Models* and *Textures* subfolders. These assets are loaded into the game using [`mesh.cpp`](GameEngine/Model%20Loading) and [`loadObjMesh.cpp`](GameEngine/"Model%20Loading"), allowing for immersive environments.
 
 Lighting within the game is handled by the [`shader.cpp`](GameEngine/Shaders) files and **GLSL** shaders located in the *Shaders* folder. These components work together to create dynamic lighting effects, adding realism to the elemental realms Avalon traverses.
 
@@ -62,7 +62,7 @@ As Avalon grows and escapes his prison, he becomes entangled in the pixies' dece
 
 ## :mega: Conclusion
 
-"Avalon: Elemental Dragon's Odyssey" was developed as part of the final project for the Advanced Computer Graphics course at The National University of Science and Technology Politehnica Bucharest (UNSTPB). This project provided an opportunity to apply theoretical knowledge and practical skills in game development, OpenGL programming, and graphics rendering. Through the creation of this engaging game, I aimed to demonstrate proficiency in graphics programming techniques, including camera movement, GUI implementation, asset loading, and shader usage. Moreover, the game serves as a testament to the creativity within the realm of computer graphics, offering players a captivating journey through the enchanting world of Drakonia.
+"Avalon: Elemental Dragon's Odyssey" was developed as part of the final project for the **Advanced Computer Graphics** course at The National University of Science and Technology Politehnica Bucharest (*UNSTPB*). This project provided an opportunity to apply theoretical knowledge and practical skills in game development, OpenGL programming, and graphics rendering. Through the creation of this engaging game, I aimed to demonstrate proficiency in graphics programming techniques, including camera movement, GUI implementation, asset loading, and shader usage. Moreover, the game serves as a testament to the creativity within the realm of computer graphics, offering players a captivating journey through the enchanting world of Drakonia.
 
 ## :video_game: How to Play🐲
 
